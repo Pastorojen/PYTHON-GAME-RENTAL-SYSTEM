@@ -1,0 +1,95 @@
+ID,PLATFORM(S),GENRE(S),TITLE,PURCHASE PRICE Â£,PURCHASE DATE
+1,PS4,Adventure,Marvels Spider-Man 2,63,2022-01-01
+2,PC,Role Playing,Super Mario Bros. Wonder (Nintendo Switch),50,2022-01-01
+3,PS4,Sports,FC24,57,2022-01-01
+4,PS5,Sports,FC24,59,2022-01-01
+5,PS5,Adventure,Assassin's Creed Mirage Launch Edition,45,2022-01-01
+6,XBOX,Sports,FC24,60,2022-01-01
+7,PS5,Adventure,Star Wars Jedi,39,2022-01-01
+8,Nintendo Switch,Sandbox,Minecraft,20,2022-01-01
+9,Nintendo Switch,Adventure,The Legend of Zelda: Tears of the Kingdom,45,2022-01-01
+10,Nintendo Switch,Race,Mario Kart 8 Deluxe,38,2022-01-01
+11,Nintendo Switch,Strategy,Mario + Rabbids Sparks Of Hope Cosmic Edition,35,2022-01-01
+12,PS5,Role Playing,Call of Duty: Modern Warfare III,70,2022-01-01
+13,Nintendo Switch,Adventure,Red Dead Redemption,35,2022-01-01
+14,PC,Sandbox,Minecraft,17,2022-01-01
+15,PC,Adventure,Battlefield 2042 Standard Edition,8,2022-01-01
+16,PS4,Adventure,Red Dead Redemption,35,2022-01-01
+17,XBOX,Adventure,Assassin's Creed Mirage Launch Edition,45,2022-01-01
+18,Nintendo Switch,Adventure,The Grinch: Christmas Adventures (Switch),29,2022-01-01
+19,PS4,Adventure,Assassin's Creed Mirage Launch Edition,45,2022-01-01
+20,Nintendo Switch,Adventure,Bluey: The Videogame - Switch,35,2022-01-01
+21,Nintendo Switch,Music,Just Dance 2023 Edition,38,2022-01-01
+22,Nintendo Switch,Role Playing,Hogwarts Legacy,47,2022-01-01
+23,PS5,Adventure,Lords Of The Fallen - Standard Edition,51,2022-01-01
+24,Nintendo Switch,Platform,Sonic Superstars,55,2022-01-01
+25,Nintendo Switch,Platform,Crash Bandicoot N. Sane Trilogy,22,2022-01-01
+26,PS4,Adventure,Cyberpunk 2077,20,2022-01-01
+27,PS5,Adventure,Electronic Arts Dead Space,35,2022-01-01
+28,PS5,Role Playing,Grand Theft Auto V,18,2022-01-01
+29,Nintendo Switch,Adventure,Animal Crossing: New Horizons,40,2022-01-01
+30,XBOX,Role Playing,Call of Duty: Modern Warfare III,70,2022-01-01
+31,PS5,Race,F1 23,39,2022-01-01
+32,Nintendo Switch,Adventure,LEGO Harry Potter Collection,25,2022-01-01
+33,Nintendo Switch,Platform,Miraculous: Rise of the Sphinx,25,2022-01-01
+34,PC,Role Playing,Hogwarts Legacy,40,2022-01-01
+35,PC,Role Playing,Super Mario Bros. Wonder (Nintendo Switch),50,2022-01-01
+36,PS4,Sports,FC24,57,2022-01-01
+37,PS5,Sports,FC24,59,2022-01-01
+38,PS5,Adventure,Assassin's Creed Mirage Launch Edition,45,2022-01-01
+39,XBOX,Sports,FC24,60,2022-01-01
+40,PS5,Adventure,Star Wars Jedi,39,2022-01-01
+41,Nintendo Switch,Sandbox,Minecraft,20,2022-01-01
+42,Nintendo Switch,Adventure,The Legend of Zelda: Tears of the Kingdom,45,2022-01-01
+43,Nintendo Switch,Race,Mario Kart 8 Deluxe,38,2022-01-01
+44,Nintendo Switch,Strategy,Mario + Rabbids Sparks Of Hope Cosmic Edition,35,2022-01-01
+45,PS5,Role Playing,Call of Duty: Modern Warfare III,70,2022-01-01
+46,Nintendo Switch,Adventure,Red Dead Redemption,35,2022-01-01
+47,PC,Sandbox,Minecraft,17,2022-01-01
+48,PC,Adventure,Battlefield 2042 Standard Edition,8,2022-01-01
+49,PS4,Adventure,Red Dead Redemption,35,2022-01-01
+50,PS5,Adventure,Lords Of The Fallen - Standard Edition,51,2022-01-01
+51,Nintendo Switch,Platform,Sonic Superstars,55,2022-01-01
+52,Nintendo Switch,Platform,Crash Bandicoot N. Sane Trilogy,22,2022-01-01
+53,PS4,Adventure,Cyberpunk 2077,20,2022-01-01
+54,PS5,Adventure,Electronic Arts Dead Space,35,2022-01-01
+55,PS5,Role Playing,Grand Theft Auto V,18,2022-01-01
+56,Nintendo Switch,Adventure,Animal Crossing: New Horizons,40,2022-01-01
+57,XBOX,Role Playing,Call of Duty: Modern Warfare III,70,2022-01-01
+58,PS5,Race,F1 23,39,2022-01-01
+59,Nintendo Switch,Adventure,LEGO Harry Potter Collection,25,2022-01-01
+60,Nintendo Switch,Platform,Miraculous: Rise of the Sphinx,25,2022-01-01
+61,PC,Role Playing,Hogwarts Legacy,40,2022-01-01
+62,PC,Role Playing,Super Mario Bros. Wonder (Nintendo Switch),50,2022-01-01
+63,PS4,Sports,FC24,57,2022-01-01
+64,PS4,Adventure,Marvels Spider-Man 2,63,2022-01-01
+65,PC,Role Playing,Super Mario Bros. Wonder (Nintendo Switch),50,2022-01-01
+66,PS4,Sports,FC24,57,2022-01-01
+67,PS5,Sports,FC24,59,2022-01-01
+68,PS5,Adventure,Assassin's Creed Mirage Launch Edition,45,2022-01-01
+69,XBOX,Sports,FC24,60,2022-01-01
+70,PS5,Adventure,Star Wars Jedi,39,2022-01-01
+71,PS4,Adventure,Marvels Spider-Man 2,63,2022-01-01
+72,PC,Role Playing,Super Mario Bros. Wonder (Nintendo Switch),50,2022-01-01
+73,PS4,Sports,FC24,57,2022-01-01
+74,PS5,Sports,FC24,59,2022-01-01
+75,PS5,Race,F1 23,39,2022-01-01
+76,Nintendo Switch,Adventure,LEGO Harry Potter Collection,25,2022-01-01
+77,Nintendo Switch,Platform,Miraculous: Rise of the Sphinx,25,2022-01-01
+78,PC,Role Playing,Hogwarts Legacy,40,2022-01-01
+79,PC,Role Playing,Super Mario Bros. Wonder (Nintendo Switch),50,2022-01-01
+80,PS4,Sports,FC24,57,2022-01-01
+81,PS5,Sports,FC24,59,2022-01-01
+82,PS5,Adventure,Assassin's Creed Mirage Launch Edition,45,2022-01-01
+83,PS4,Adventure,Marvels Spider-Man 2,63,2022-01-01
+84,PC,Role Playing,Super Mario Bros. Wonder (Nintendo Switch),50,2022-01-01
+85,PS4,Sports,FC24,57,2022-01-01
+86,PS5,Sports,FC24,59,2022-01-01
+87,PS5,Adventure,Assassin's Creed Mirage Launch Edition,45,2022-01-01
+88,XBOX,Sports,FC24,60,2022-01-01
+89,PS5,Adventure,Star Wars Jedi,39,2022-01-01
+90,Nintendo Switch,Sandbox,Minecraft,20,2022-01-01
+91,PS4,Sports,FC24,57,2022-01-01
+92,PS5,Sports,FC24,59,2022-01-01
+93,PS5,Race,F1 23,39,2022-01-01
+94,XBOX,Sports,FC24,60,2022-01-01
